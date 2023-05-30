@@ -1,0 +1,37 @@
+.App {
+  background-color: pink;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.section {
+  margin-top: 20px;
+  margin-left: 150px;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.title {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.input {
+  padding: 5px;
+  margin-right: 10px;
+  margin: 12px;
+}
+
+.button {
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: solid black 1px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 12px;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
